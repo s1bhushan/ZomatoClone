@@ -1,0 +1,272 @@
+[
+  {
+    "image": "https://images.unsplash.com/photo-1531917115039-473b5a388f40?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTU2fHxjYWZlfGVufDB8fDB8fHww",
+    "title": "C - Dock",
+    "category": "Bar Food",
+    "price": 1500,
+    "rating": "4.2",
+    "location": "Hinjawadi, Pune",
+    "offer": "Flat 20% OFF"
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1516007112993-555f24caca6d?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTUwfHxjYWZlfGVufDB8fDB8fHww",
+    "title": "THE PLACE BREW - N - BITES",
+    "category": "Cafe, Coffee, Lebanese, Continental",
+    "price": 1300,
+    "rating": "4.4",
+    "location": "Balewadi, Pune",
+    "offer": "Flat 15% OFF"
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1544025162-d76694265947?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0",
+    "title": "The Urban Spoon",
+    "category": "Indian, Mughlai",
+    "price": 1000,
+    "rating": "4.0",
+    "location": "Kothrud, Pune",
+    "offer": "Flat 10% OFF"
+  },
+  {
+    "image": "https://plus.unsplash.com/premium_photo-1733259677103-fbb5d70ef830?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8aG90ZWwlMjBmb29kfGVufDB8fDB8fHww",
+    "title": "Sunset Grill",
+    "category": "Grill, BBQ",
+    "price": 1600,
+    "rating": "4.5",
+    "location": "Viman Nagar, Pune",
+    "offer": "Buy 1 Get 1 Free"
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1555244162-803834f70033?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8aG90ZWwlMjBmb29kfGVufDB8fDB8fHww",
+    "title": "Desi Spice",
+    "category": "North Indian",
+    "price": 800,
+    "rating": "4.1",
+    "location": "Baner, Pune",
+    "offer": "Free Dessert"
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1565299543923-37dd37887442?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0",
+    "title": "La Pino'z Pizza",
+    "category": "Pizza, Italian",
+    "price": 600,
+    "rating": "4.3",
+    "location": "FC Road, Pune",
+    "offer": "Flat 25% OFF"
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1499028344343-cd173ffc68a9?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0",
+    "title": "Sizzler House",
+    "category": "Sizzlers, Continental",
+    "price": 1400,
+    "rating": "4.2",
+    "location": "Deccan, Pune",
+    "offer": "Combo @ ₹999"
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1551183053-bf91a1d81141?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0",
+    "title": "Biryani Blues",
+    "category": "Biryani, Mughlai",
+    "price": 700,
+    "rating": "4.0",
+    "location": "Wakad, Pune",
+    "offer": "Flat 30% OFF"
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1531088009183-5ff5b7c95f91?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGhvdGVsJTIwZm9vZHxlbnwwfHwwfHx8MA%3D%3D",
+    "title": "Cafe Delhi Heights",
+    "category": "Bar Food",
+    "price": 1235,
+    "rating": "3.9",
+    "location": "Viman Nagar, Pune",
+    "offer": "Flat 25% OFF"
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1590591061261-799077be8a31?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fGhvdGVsJTIwZm9vZHxlbnwwfHwwfHx8MA%3D%3D",
+    "title": "Green House Bistro",
+    "category": "Healthy, Italian",
+    "price": 1498,
+    "rating": "4.3",
+    "location": "Kothrud, Pune",
+    "offer": "20% Cashback"
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1678781283129-a403c3dc8823?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzV8fGhvdGVsJTIwZm9vZHxlbnwwfHwwfHx8MA%3D%3D",
+    "title": "Royal Tandoor",
+    "category": "Italian, Lebanese",
+    "price": 1186,
+    "rating": "3.8",
+    "location": "Baner, Pune",
+    "offer": "20% Cashback"
+  },
+  {
+    "image": "https://media.istockphoto.com/id/1141644868/photo/nice-buffet-line-in-a-hotel.webp?a=1&b=1&s=612x612&w=0&k=20&c=1RXtRO6Wz4jSPcNg89IkjHhn3poLOdo9nBgGGE-W6Hc=",
+    "title": "Spice Hub",
+    "category": "Cafe, Healthy",
+    "price": 1155,
+    "rating": "3.6",
+    "location": "Kothrud, Pune",
+    "offer": "Free Dessert"
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1604741333810-0ef6017256da?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjB8fGhvdGVsJTIwZm9vZHxlbnwwfHwwfHx8MA%3D%3D",
+    "title": "Mumbai Masala",
+    "category": "North Indian, Vegan, Bar Food",
+    "price": 1097,
+    "rating": "4.5",
+    "location": "Camp, Pune",
+    "offer": "20% Cashback"
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1660120447916-123439b05c40?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTB8fGhvdGVsJTIwZm9vZHxlbnwwfHwwfHx8MA%3D%3D",
+    "title": "Olive Bistro",
+    "category": "Fast Food, Lebanese",
+    "price": 567,
+    "rating": "3.6",
+    "location": "Baner, Pune",
+    "offer": "Flat 15% OFF"
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1728051104003-aa16971b44b3?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NzV8fGhvdGVsJTIwZm9vZHxlbnwwfHwwfHx8MA%3D%3D",
+    "title": "The Sizzling Panda",
+    "category": "Mughlai",
+    "price": 1631,
+    "rating": "4.8",
+    "location": "Deccan, Pune",
+    "offer": "Free Mocktail"
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1678781283118-31e7f6c96d0d?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8ODN8fGhvdGVsJTIwZm9vZHxlbnwwfHwwfHx8MA%3D%3D",
+    "title": "Tandoori Nights",
+    "category": "Chinese, North Indian",
+    "price": 1658,
+    "rating": "3.6",
+    "location": "Aundh, Pune",
+    "offer": "Flat 20% OFF"
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1626201853398-7cba6a8ebd7f?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTEwfHxob3RlbCUyMGZvb2R8ZW58MHx8MHx8fDA%3D",
+    "title": "Barbeque Nation",
+    "category": "Pizza",
+    "price": 500,
+    "rating": "4.1",
+    "location": "Camp, Pune",
+    "offer": "Flat 10% OFF"
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1728051103953-91ce6f60610a?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nzh8fGhvdGVsJTIwZm9vZHxlbnwwfHwwfHx8MA%3D%3D",
+    "title": "Zesty Zayka",
+    "category": "Pizza, Bar Food",
+    "price": 1374,
+    "rating": "4.6",
+    "location": "Pimpri, Pune",
+    "offer": "Flat 15% OFF"
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1678781416302-d59ed9ed46d0?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8ODJ8fGhvdGVsJTIwZm9vZHxlbnwwfHwwfHx8MA%3D%3D",
+    "title": "Punjabi Tadka",
+    "category": "Healthy",
+    "price": 656,
+    "rating": "4.9",
+    "location": "Wakad, Pune",
+    "offer": "Flat 30% OFF"
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1580256079939-11c235d1f503?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTAwfHxob3RlbCUyMGZvb2R8ZW58MHx8MHx8fDA%3D",
+    "title": "The Coffee Club",
+    "category": "Lebanese",
+    "price": 1111,
+    "rating": "4.7",
+    "location": "Baner, Pune",
+    "offer": "Free Mocktail"
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1715692727352-2928781b09da?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTA2fHxob3RlbCUyMGZvb2R8ZW58MHx8MHx8fDA%3D",
+    "title": "Urban Tadka",
+    "category": "South Indian, Pizza, Mexican",
+    "price": 896,
+    "rating": "4.0",
+    "location": "Baner, Pune",
+    "offer": "Buy 1 Get 1 Free"
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1744000311222-61863adfeb93?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTE0fHxob3RlbCUyMGZvb2R8ZW58MHx8MHx8fDA%3D",
+    "title": "Chopstick Express",
+    "category": "Fast Food",
+    "price": 768,
+    "rating": "3.6",
+    "location": "Pimpri, Pune",
+    "offer": "Free Mocktail"
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1723853035545-3d8c8b4cf99b?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTIzfHxob3RlbCUyMGZvb2R8ZW58MHx8MHx8fDA%3D",
+    "title": "Kabab Junction",
+    "category": "Healthy",
+    "price": 1417,
+    "rating": "4.6",
+    "location": "Hadapsar, Pune",
+    "offer": "Buy 1 Get 1 Free"
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1745466041219-87f6dac81d09?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTM0fHxob3RlbCUyMGZvb2R8ZW58MHx8MHx8fDA%3D",
+    "title": "Peppers & Herbs",
+    "category": "North Indian, Chinese",
+    "price": 1350,
+    "rating": "3.8",
+    "location": "Camp, Pune",
+    "offer": "Flat 30% OFF"
+  },
+  {
+    "image": "https://plus.unsplash.com/premium_photo-1666919058348-f64a57f83f61?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTMzfHxob3RlbCUyMGZvb2R8ZW58MHx8MHx8fDA%3D",
+    "title": "The Breakfast Point",
+    "category": "Lebanese, Mexican, Chinese",
+    "price": 1502,
+    "rating": "4.4",
+    "location": "Balewadi, Pune",
+    "offer": "Combo @ \u20b9999"
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1636381310569-b4084c665f66?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTQ3fHxob3RlbCUyMGZvb2R8ZW58MHx8MHx8fDA%3D",
+    "title": "South Spice",
+    "category": "Lebanese, Chinese",
+    "price": 820,
+    "rating": "4.1",
+    "location": "FC Road, Pune",
+    "offer": "Flat 25% OFF"
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1695185381525-68ba9e9d0a8c?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTUwfHxob3RlbCUyMGZvb2R8ZW58MHx8MHx8fDA%3D",
+    "title": "Food Carnival",
+    "category": "Healthy, Italian, Pizza",
+    "price": 769,
+    "rating": "4.2",
+    "location": "Aundh, Pune",
+    "offer": "Combo @ \u20b9999"
+  },
+  {
+    "image": "https://plus.unsplash.com/premium_photo-1726768931708-df1c7a699c2e?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTUzfHxob3RlbCUyMGZvb2R8ZW58MHx8MHx8fDA%3D",
+    "title": "Taste of India",
+    "category": "Fast Food",
+    "price": 725,
+    "rating": "4.8",
+    "location": "Kalyani Nagar, Pune",
+    "offer": "Flat 20% OFF"
+  },
+  {
+    "image": "https://plus.unsplash.com/premium_photo-1695558759869-b1a47e3f09d2?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTYxfHxob3RlbCUyMGZvb2R8ZW58MHx8MHx8fDA%3D",
+    "title": "Flavours Street",
+    "category": "Cafe",
+    "price": 1662,
+    "rating": "4.5",
+    "location": "Deccan, Pune",
+    "offer": "Flat 30% OFF"
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1722537281685-93dd0a6b5755?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTc4fHxob3RlbCUyMGZvb2R8ZW58MHx8MHx8fDA%3D",
+    "title": "Savory Tales",
+    "category": "Mughlai, Grill, South Indian",
+    "price": 634,
+    "rating": "3.9",
+    "location": "FC Road, Pune",
+    "offer": "Flat 15% OFF"
+  }
+]

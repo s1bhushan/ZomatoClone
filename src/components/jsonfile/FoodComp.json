@@ -1,0 +1,102 @@
+[
+  {
+    "Title": "Delicious Pizza",
+    "Info": "Classic Italian pizza with fresh toppings",
+    "Img": "https://images.unsplash.com/photo-1513104890138-7c749659a591?w=600&auto=format&fit=crop&q=60"
+  },
+  {
+    "Title": "Fresh Salad",
+    "Info": "Healthy and crisp vegetable salad",
+    "Img": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "Title": "Spicy Biryani",
+    "Info": "Authentic Hyderabadi chicken biryani",
+    "Img": "https://plus.unsplash.com/premium_photo-1694141252026-3df1de888a21?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTN8fGJpcnlhbml8ZW58MHx8MHx8fDA%3D"
+  },
+  {
+    "Title": "Sushi Platter",
+    "Info": "Assorted sushi with wasabi and soy sauce",
+    "Img": "https://images.unsplash.com/photo-1546069901-eacef0df6022?auto=format&fit=crop&w=600&q=60"
+  },
+  {
+    "Title": "Grilled Chicken",
+    "Info": "Tender chicken breast grilled to perfection",
+    "Img": "https://plus.unsplash.com/premium_photo-1669742928112-19364a33b530?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Y2hpY2tlbnxlbnwwfHwwfHx8MA%3D%3D"
+  },
+  {
+    "Title": "Veggie Burger",
+    "Info": "Juicy plant-based patty with fresh veggies",
+    "Img": "https://images.unsplash.com/photo-1661529515567-dcb300f41da5?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8dmVnZ2llJTIwYnVyZ2VyfGVufDB8fDB8fHww"
+  },
+  {
+    "Title": "Butter Naan",
+    "Info": "Soft and fluffy Indian bread with butter",
+    "Img": "https://images.unsplash.com/photo-1678969406353-ead12b1f258a?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fG5hYW58ZW58MHx8MHx8fDA%3D"
+  },
+  {
+    "Title": "Chocolate Cake",
+    "Info": "Moist chocolate cake with rich frosting",
+    "Img": "https://images.unsplash.com/photo-1578985545062-69928b1d9587?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8Y2hvY29sYXRlJTIwY2FrZXxlbnwwfHwwfHx8MA%3D%3D"
+  },
+  {
+    "Title": "Pasta Alfredo",
+    "Info": "Creamy pasta tossed in Alfredo sauce",
+    "Img": "https://images.unsplash.com/photo-1662478838323-2b4d9dba8ce8?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8ZmV0dHVjY2luZSUyMGFsZnJlZG98ZW58MHx8MHx8fDA%3D"
+  },
+  {
+    "Title": "Momos",
+    "Info": "Steamed dumplings with spicy chutney",
+    "Img": "https://images.unsplash.com/photo-1534422298391-e4f8c172dddb?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8bW9tb3N8ZW58MHx8MHx8fDA%3D"
+  },
+  {
+    "Title": "Masala Dosa",
+    "Info": "Crispy South Indian dosa with potato filling",
+    "Img": "https://images.unsplash.com/photo-1668236543090-82eba5ee5976?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8ZG9zYXxlbnwwfHwwfHx8MA%3D%3D"
+  },
+  {
+    "Title": "Paneer Tikka",
+    "Info": "Grilled cottage cheese cubes marinated in spices",
+    "Img": "https://images.unsplash.com/photo-1666001120694-3ebe8fd207be?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cGFuZWVyJTIwdGlra2F8ZW58MHx8MHx8fDA%3D"
+  },
+  {
+    "Title": "Tandoori Chicken",
+    "Info": "Smoky chicken roasted in tandoor",
+    "Img": "https://images.unsplash.com/photo-1589302168068-964664d93dc0?auto=format&fit=crop&w=600&q=60"
+  },
+  {
+    "Title": "Falafel Wrap",
+    "Info": "Middle Eastern wrap with chickpea fritters",
+    "Img": "https://images.unsplash.com/photo-1586190848861-99aa4a171e90?auto=format&fit=crop&w=600&q=60"
+  },
+  {
+    "Title": "Cold Coffee",
+    "Info": "Iced coffee blended with cream and sugar",
+    "Img": "https://images.unsplash.com/photo-1620360289812-0abdae69d6d2?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8Q29sZCUyMENvZmZlZXxlbnwwfHwwfHx8MA%3D%3D"
+  },
+  {
+    "Title": "French Fries",
+    "Info": "Crispy golden potato fries with seasoning",
+    "Img": "https://images.unsplash.com/photo-1541592106381-b31e9677c0e5?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8RnJlbmNoJTIwRnJpZXN8ZW58MHx8MHx8fDA%3D"
+  },
+  {
+    "Title": "Chole Bhature",
+    "Info": "Spicy chickpeas served with fried bread",
+    "Img": "https://media.gettyimages.com/id/636150526/photo/close-up-of-delicious-chole-bhature.jpg?s=612x612&w=0&k=20&c=FaWjBtn0v2cdcBqy8yrT0P-36xsEwKjClemQDKSMPHs="
+  },
+  {
+    "Title": "Ice Cream Sundae",
+    "Info": "Vanilla ice cream topped with chocolate and nuts",
+    "Img": "https://images.unsplash.com/photo-1578985545062-69928b1d9587?auto=format&fit=crop&w=600&q=60"
+  },
+  {
+    "Title": "Ramen Bowl",
+    "Info": "Japanese noodles in a flavorful broth",
+    "Img": "https://plus.unsplash.com/premium_photo-1694708455249-992010f9db32?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8cmFtZW4lMjBib3dsfGVufDB8fDB8fHww"
+  },
+  {
+    "Title": "Cheese Sandwich",
+    "Info": "Grilled sandwich with melted cheese",
+    "Img": "https://images.unsplash.com/photo-1528736235302-52922df5c122?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Y2hlZXNlJTIwc2FuZHdpY2h8ZW58MHx8MHx8fDA%3D"
+  }
+]
