@@ -21,6 +21,8 @@ export default function Cozy() {
           rating={item.rating}
           location={item.location}
           offer={item.offer}
+         link={item.link}
+
         />
       ))}
 

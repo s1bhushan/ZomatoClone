@@ -8,7 +8,7 @@
     "rating": "4.2",
     "location": "Hinjawadi, Pune",
     "offer": "Flat 20% OFF",
-    "link":"/sandeephotel"
+    "link":"/cdock"
   },
   {
     "image": "https://images.unsplash.com/photo-1516007112993-555f24caca6d?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTUwfHxjYWZlfGVufDB8fDB8fHww",
@@ -17,7 +17,8 @@
     "price": 1300,
     "rating": "4.4",
     "location": "Balewadi, Pune",
-    "offer": "Flat 15% OFF"
+    "offer": "Flat 15% OFF",
+    "link":"/domino"
   },
   {
     "image": "https://images.unsplash.com/photo-1544025162-d76694265947?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0",
@@ -26,7 +27,8 @@
     "price": 1000,
     "rating": "4.0",
     "location": "Kothrud, Pune",
-    "offer": "Flat 10% OFF"
+    "offer": "Flat 10% OFF",
+     "link":"/pizzahut"
   },
   {
     "image": "https://plus.unsplash.com/premium_photo-1733259677103-fbb5d70ef830?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8aG90ZWwlMjBmb29kfGVufDB8fDB8fHww",
@@ -35,7 +37,8 @@
     "price": 1600,
     "rating": "4.5",
     "location": "Viman Nagar, Pune",
-    "offer": "Buy 1 Get 1 Free"
+    "offer": "Buy 1 Get 1 Free",
+     "link":"/sunset"
   },
   {
     "image": "https://images.unsplash.com/photo-1555244162-803834f70033?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8aG90ZWwlMjBmb29kfGVufDB8fDB8fHww",
@@ -44,7 +47,8 @@
     "price": 800,
     "rating": "4.1",
     "location": "Baner, Pune",
-    "offer": "Free Dessert"
+    "offer": "Free Dessert",
+    "link":"/desispice"
   },
   {
     "image": "https://images.unsplash.com/photo-1565299543923-37dd37887442?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0",

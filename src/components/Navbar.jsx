@@ -7,7 +7,13 @@ import Info from '../pages/Info';
 import Contact from '../pages/Contact';
 import Offers from '../pages/Offers';
 import Restaurants from '../pages/Restaurants';
-import HotelSandeepPage from '../Hotels/HotelSandeepPage';
+import CDock from '../Hotels/CDock';
+import Domino from '../Hotels/Domino';
+import PizzaHutPage from '../Hotels/PizzaHutPage';
+import SunsetGrill from '../Hotels/SunsetGrill';
+import Delivery from '../pages/Delivery';
+import DesiSpice from '../Hotels/DesiSpice';
+
 
 
 export default function Navbar() {
@@ -134,7 +140,14 @@ export default function Navbar() {
                        <Route path="/contact" element={<Contact/>}/>
                        <Route path="/offer" element={<Offers/>}/>
                           <Route path="/restaurants" element={<Restaurants/>}/>
-                          <Route path="/sandeephotel" element={<HotelSandeepPage/>}/>
+                          <Route path="/cdock" element={<CDock/>}/>
+                                                    <Route path="/domino" element={<Domino/>}/>
+                                                    <Route path="/pizzahut" element={<PizzaHutPage/>}/>
+                                                     <Route path="/sunset" element={<SunsetGrill/>}/>
+                                                     <Route path="/desispice" element={<DesiSpice/>}/>
+
+
+                                                     <Route path="/delivery" element={<Delivery/>}/>
 
                   </Routes>
 

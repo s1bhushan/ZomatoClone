@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from 'react-router-dom'
 
 export default function CozyCafes({
   image,
@@ -8,8 +9,10 @@ export default function CozyCafes({
   rating,
   location,
   offer,
+  link,
 }) {
   return (
+     <Link to={link}>
     <div className="w-72 bg-white rounded-lg shadow-md overflow-hidden hover:shadow-xl transition-shadow duration-300">
         
       <div className="relative">
@@ -53,5 +56,6 @@ export default function CozyCafes({
         </div>
       </div>
     </div>
+    </Link>
   );
 }

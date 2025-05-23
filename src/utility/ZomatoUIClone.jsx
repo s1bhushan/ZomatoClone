@@ -14,7 +14,7 @@ export default function ZomatoUIClone() {
       {/* Top Menu */}
       <div className="flex gap-8 text-lg font-medium border-b pb-2 mb-4">
         <span className="text-red-500 border-b-2 border-red-500">Dining Out</span>
-        <span className="text-gray-500 hover:text-red-500 cursor-pointer">Delivery</span>
+       <Link to='/delivery'> <span className="text-gray-500 hover:text-red-500 cursor-pointer">Delivery</span></Link>
         <span className="text-gray-500 hover:text-red-500 cursor-pointer">Nightlife</span>
       </div>
 

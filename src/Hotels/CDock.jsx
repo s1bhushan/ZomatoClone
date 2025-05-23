@@ -1,6 +1,7 @@
 import React, { useState } from "react";
 
 import { PhoneCall, MapPin, Star } from "lucide-react";
+import Footer from "../utility/Footer";
 
 
 
@@ -16,14 +17,15 @@ const categories = [
   "Accompaniments (16)",
   "Drinks (Beverages) (8)"
 ];
-const HotelSandeepPage = () => {
+const CDock = () => {
     const [selectedCategory, setSelectedCategory] = useState("Special Menu (32)");
 
   return (
+    <div>
     <div className="p-4 max-w-6xl mx-auto pt-40">
       {/* Header Section */}
       <div className="mb-6">
-        <h1 className="text-3xl font-bold">Hotel Sandeep</h1>
+        <h1 className="text-3xl font-bold">Hotel CDock</h1>
         <p className="text-gray-600">
           Maharashtrian, North Indian, Chinese, Mughlai
         </p>
@@ -144,8 +146,10 @@ const HotelSandeepPage = () => {
         </div>
       </div>
       </div>
+      </div>
+       <Footer/>
     </div>
   );
 };
 
-export default HotelSandeepPage;
+export default CDock;
