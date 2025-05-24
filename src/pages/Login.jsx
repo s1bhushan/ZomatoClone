@@ -1,12 +1,15 @@
-import React, { useState } from 'react';
+import React, { useState, useContext } from 'react';
 import { useNavigate, Link } from 'react-router-dom';
 import axios from 'axios';
 import Footer from '../utility/Footer';
+import { AuthContext } from '../context/AuthContext';  // <-- import context
 
 export default function Login() {
   const [form, setForm] = useState({ email: '', password: '' });
   const [error, setError] = useState('');
   const navigate = useNavigate();
+
+  const { login } = useContext(AuthContext); // <-- get login method
 
   const handleChange = (e) => {
     setForm({ ...form, [e.target.name]: e.target.value });
@@ -22,12 +25,16 @@ export default function Login() {
         password: form.password
       });
 
-      // Save JWT token to localStorage
-      localStorage.setItem('token', response.data.token);
+      // Call login from context so it updates isAuthenticated state
+      login(response.data.token);
+
+      // Save user details (optional)
       localStorage.setItem('user', JSON.stringify(response.data.user));
 
-      // Redirect to dashboard or homepage
-      navigate('/dashboard');
+      // Redirect based on user type
+      
+        navigate('/');
+      
 
     } catch (err) {
       setError('Invalid email or password');
@@ -72,7 +79,8 @@ export default function Login() {
                 <input type="checkbox" className="rounded border-gray-300 text-indigo-600 focus:ring-indigo-500"/>
                 <span className="ml-2 text-sm text-gray-600">Remember me</span>
               </label>
-              <a href="#" className="text-sm text-indigo-600 hover:text-indigo-500">Forgot password?</a>
+             <Link to="/forgot-password" className="text-sm text-indigo-600 hover:text-indigo-500">Forgot password?</Link>
+
             </div>
 
             <button
